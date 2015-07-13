@@ -1,0 +1,221 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"main",
+				"maina	int main(char[][] args) { … }"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/lzanol/projects/iogurnat",
+		"/home/lzanol/projects/iogurnat/.openshift",
+		"/home/lzanol/projects/iogurnat/.openshift/action_hooks",
+		"/home/lzanol/projects/iogurnat/.openshift/action_hooks/new",
+		"/home/lzanol/projects/iogurnat/.openshift/action_hooks/old",
+		"/home/lzanol/projects/iogurnat/public",
+		"/home/lzanol/projects/iogurnat/source",
+		"/home/lzanol/projects/iogurnat/views"
+	],
+	"file_history":
+	[
+		"/home/lzanol/projects/iogurnat/public/index.html",
+		"/home/lzanol/projects/iogurnat/.openshift/action_hooks/start",
+		"/home/lzanol/projects/iogurnat/diy/testrubyserver.rb",
+		"/home/lzanol/projects/iogurnat/source/app.d",
+		"/home/lzanol/projects/iogurnat/dub.selections.json",
+		"/home/lzanol/projects/iogurnat/asdf.cs",
+		"/home/lzanol/projects/iogurnat/dub.json",
+		"/home/lzanol/projects/iogurnat/.gitignore",
+		"/home/lzanol/projects/player/plugins/controls/src/actionscript/org/flowplayer/controls/Controls.as",
+		"/home/lzanol/projects/player/core/src/samba.player/samba.bridge.js",
+		"/home/lzanol/projects/player/core/src/samba.player/js/players/samba.player.html5.js",
+		"/home/lzanol/projects/player/core/src/samba.player/js/plugins/samba.player.logger.js",
+		"/home/lzanol/projects/player/lib/osmf/framework/OSMF/org/osmf/logging/Logger.as",
+		"/home/lzanol/projects/player/plugins/analytics/lib-swc/logd.swc",
+		"/home/lzanol/projects/player/core/LICENSE.txt",
+		"/home/lzanol/projects/player/core/lib/google-analytics/src/com/google/analytics/v4/Bridge.as",
+		"/home/lzanol/projects/player/core/lib/google-analytics/src/com/google/analytics/core/BrowserInfo.as",
+		"/home/lzanol/projects/player/core/test/bwcheck-rss.html",
+		"/home/lzanol/projects/player/core/build.properties",
+		"/home/lzanol/projects/player/playground/playground/templates/html5.html",
+		"/home/lzanol/projects/player/plugins/pseudostreaming/src/actionscript/org/httpclient/HttpTimer.as",
+		"/home/lzanol/projects/player/html-template/hsm.html"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"adErrorHandler",
+			"window.addEventListener",
+			"adsLoader",
+			"var i",
+			"();\n",
+			"remainingTime",
+			"dettach",
+			"destroy"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "iogurnat.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"logger.js",
+				"core/src/samba.player/js/plugins/samba.player.logger.js"
+			],
+			[
+				"bridge.js",
+				"core/src/samba.player/samba.bridge.js"
+			],
+			[
+				"html5.js",
+				"core/src/samba.player/js/players/samba.player.html5.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 296.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
