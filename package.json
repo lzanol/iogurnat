@@ -1,0 +1,26 @@
+{
+	"name": "todo",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "nodemon api/server.js --exec babel-node",
+		"build": "npm run clean && babel api -d dist",
+		"serve": "node dist/server.js",
+		"clean": "rimraf dist",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"babel-cli": "^6.26.0",
+		"babel-plugin-transform-class-properties": "^6.24.1",
+		"babel-preset-env": "^1.6.1",
+		"nodemon": "^1.14.12",
+		"rimraf": "^2.6.2"
+	},
+	"dependencies": {
+		"express": "^4.16.2",
+		"mongoose": "^5.0.5"
+	}
+}
