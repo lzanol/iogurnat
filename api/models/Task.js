@@ -16,4 +16,4 @@ const config = {
 	}
 };
 
-module.exports = mongoose.model('Tasks', new mongoose.Schema(config));
+module.exports = mongoose.model('Task', new mongoose.Schema(config));

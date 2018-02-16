@@ -1,22 +1,25 @@
 import express from 'express';
 import mongoose from 'mongoose';
-import TodoController from './controllers/TodoController';
+import bodyParser from 'body-parser';
+import TaskController from './controllers/TaskController';
+
+mongoose.connect('mongodb://localhost/todo');
 
 const port = process.env.PORT || 3000;
 const app = express();
 
-mongoose.connect('mongodb://localhost/todo')
+app.use(bodyParser.json());
 
-const todo = new TodoController();
+const taskController = new TaskController();
 
-app.route(TodoController.basePath)
-	.get(todo.getAll)
-	.post(todo.create);
+app.route(TaskController.basePath)
+	.get(taskController.getAll)
+	.post(taskController.create);
 
-app.route(TodoController.idPath)
-	.get(todo.get)
-	.put(todo.update)
-	.delete(todo.remove);
+app.route(TaskController.idPath)
+	.get(taskController.get)
+	.put(taskController.update)
+	.delete(taskController.remove);
 
 app.listen(port);
 
